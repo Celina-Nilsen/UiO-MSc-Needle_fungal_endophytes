@@ -1,5 +1,5 @@
 This README file was generated on 02.05.24 by Celina Alexandria Kostich-Nilsen. 
-Under construction! Last edited: 02.05.24
+Under construction! Last edited: 06.05.24
 
 --------------------
 GENERAL INFORMATION
@@ -12,12 +12,12 @@ GENERAL INFORMATION
 	// Email: celinaaak@student.ibv.uio.no 
 // Kind of data: Curated OTU table, environmental, physical, chemical 
 
-// Description of dataset: 
-Raw curated OTU table from DNA sequences obtained from Norway spruce needles. 
-
+%%
 -------------------------------------------------------------
 INFORMATION FOR: Final_OTU_table_Celina_no_unidentified.xlsx
 -------------------------------------------------------------
+// Description of dataset: 
+Raw curated OTU table from DNA sequences obtained from Norway spruce needles. 
 ---------------------------
 METHODOLOGICAL INFORMATION 
 ---------------------------
@@ -59,3 +59,60 @@ Genus_support: bootstrap support value of genus rank from SINTAX
 Species_support: bootstrap support value of species rank from SINTAX
 Strand: 
 Tax_above_threshold: all classes taxonomy was able to be given to 
+
+%%
+--------------------------------------------------
+INFORMATION FOR: Phenolics EcoForest Celina.xlsx 
+--------------------------------------------------
+Description of dataset: Plant chemical analysis of spruce needle samples. 
+3 sheets:
+- Sheet 1: Low molecular weight phenolics
+- Sheet 2: MeOH soluble condensed tannins
+- Sheet 3: MeOH insoluble condensed tannins
+ 
+-----------------------------
+METHODOLOGICAL INFORMATION
+-----------------------------
+Low molecular weight phenolic concentrations acquired from high performance liquid chromatography. 
+Condensed tannins concentrations acquired from acid butanol assay for proanthocyanidins. 
+These chemical analyses were conducted by Line Nybakken at Norwegian University of Life Sciences. 
+
+-----------------------------
+DATA SPECIFIC INFORMATION
+-----------------------------
+// Column List: 
+
+// Sheet 1 - Low molecular weight phenolics 
+Column 1: concentration values given (mg g-1) and sample numbers 
+gallocatechin: concentrations of gallocatechin 
+B3: concentration of B3 
+(+) catechin: concentration of (+) catechin 
+piceatannol glucoside: concentration of piceatannol glucoside
+resveratrol: concentration of reseratrol 
+Piceatannol aglycon: concentration of Piceatannol aglycon
+Isorhapontin: concentration of 
+quercetin3glucuronide: concentration of quercetin3glucuronide
+quercetin3glucoside: concentration of quercetin3glucoside
+kaempferol3glucuronide: concentration of kaempferol3glucuronide 
+apigenin7glucoside: concnetration of apigenin7glucoside '
+flavonoid: concentration of flavonoid 
+Kaempferol3glucoside: concentration of Kaempferol3glucoside 
+isorhamnetin: concentrations of isorhamnetin 
+Sum, flavonoids: concentration sum of all flavonoids in sample (flavonoids represented by yellow color in header) 
+Sum, stilbenes: concentration sum of all stilbenes in sample (stilbenes represented by blue color) 
+flavonols = quercetins + kaempferols: sum of concentrations of flavonols 
+flavan-3-ols = gallocatechin + B3 + (+) catechin: sum of concentrations of flavan-3-ols 
+flavanones: sum of concentrations of flavanones 
+
+// Sheet 2 - MeOH soluble condensed tannins 
+
+
+
+
+
+
+
+
+
+
+
