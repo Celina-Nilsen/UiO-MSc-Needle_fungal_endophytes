@@ -83,14 +83,14 @@ DATA SPECIFIC INFORMATION
 // Column List: 
 
 // Sheet 1 - Low molecular weight phenolics 
-Column 1: concentration values given (mg g-1) and sample numbers 
+Column 1: concentration values given (mg g-1) and sample ID numbers 
 gallocatechin: concentrations of gallocatechin 
 B3: concentration of B3 
 (+) catechin: concentration of (+) catechin 
 piceatannol glucoside: concentration of piceatannol glucoside
 resveratrol: concentration of reseratrol 
 Piceatannol aglycon: concentration of Piceatannol aglycon
-Isorhapontin: concentration of 
+Isorhapontin: concentration of Isorhapontin
 quercetin3glucuronide: concentration of quercetin3glucuronide
 quercetin3glucoside: concentration of quercetin3glucoside
 kaempferol3glucuronide: concentration of kaempferol3glucuronide 
@@ -105,8 +105,15 @@ flavan-3-ols = gallocatechin + B3 + (+) catechin: sum of concentrations of flava
 flavanones: sum of concentrations of flavanones 
 
 // Sheet 2 - MeOH soluble condensed tannins 
+Sample ID: sample ID of spruce needles samples  
+Concentration mg g-1_ concentration of MeOH soluble condensed tannins 
 
+// Sheet 3 - MeOH insoluble condensed tannins 
+Sample ID: sample ID of spruce needle samples 
+Concentrations, mg g-1: concentration of MeOH insoluble condensed tannins 
 
+%% 
+-----------------------------
 
 
 
