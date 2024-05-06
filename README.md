@@ -9,7 +9,7 @@ GENERAL INFORMATION
                       Variables_Celina 
 // Contact Information 
 	// Name: Celina Alexandria Kostich-Nilsen 
-	// Email: celinaaak@student.ibv.uio.no 
+	// Email: celinaak@student.ibv.uio.no 
 // Kind of data: Curated OTU table, environmental, physical, chemical 
 
 %%
