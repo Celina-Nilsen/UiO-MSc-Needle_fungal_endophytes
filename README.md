@@ -1,5 +1,5 @@
 This README file was generated on 02.05.24 by Celina Alexandria Kostich-Nilsen. 
-Under construction! Last edited: 06.05.24
+Last edited: 14.05.24
 
 --------------------
 GENERAL INFORMATION
@@ -154,8 +154,8 @@ BioInfo_Sample: Sample number given during metabarcoding and bioinformatics
 Tree_number: number of tree collected from plot, numbers 1-8 possible. Eight trees sampled at each plot. 
 Tree Diameter (BHD) in cm: Tree diameter of the tree the needles were collected from, taken at breast height (approx. 1.3 m), diameter recorded in centimeters. 
 Date collected: the date the needles were collected 
-Avrg needle length: the vaerage needle length of randomly sampled needles from the tree, between 47-53 needles. 
-Needle weight after drying (g): total weight of randomly collected needles (47-53) from each tree after being freezedried for 72 hours, given in grams. 
+Avrg needle length: the vaerage needle length of randomly sampled needles from the tree, between 48-53 needles. 
+Needle weight after drying (g): total weight of randomly collected needles (48-53) from each tree after being freezedried for 72 hours, given in grams. 
 % Nitrogen: percent nitrogen from aliqouted amount from pulverized needles. Measured with flash elemental analyzer. 
 % Carbon: percent carbon from aliqouted amount from pulverized needles. Measured with flash elemental analyzer. 
 
